@@ -1,0 +1,10 @@
+.spack
+store-1
+store-2
+.spack-env
+config.yaml
+compilers.yaml
+packages.yaml
+spack.mk
+generated/
+spack.lock
